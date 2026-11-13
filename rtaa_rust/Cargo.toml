@@ -1,0 +1,12 @@
+[package]
+name = "rtaa"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bls12_381 = { version = "0.8", features = ["experimental"] }
+group = "0.13"
+ff = "0.13"
+sha2 = "0.9"
+rand = "0.8"
+rand_core = "0.6"

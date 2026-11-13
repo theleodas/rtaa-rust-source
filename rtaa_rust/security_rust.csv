@@ -1,0 +1,7 @@
+attack,verify_rejects,base_judge,rtaa_plus_original,rtaa_plus_fixed,rtaa_plus_fixed_batched
+swap_w,true,P0,P0,bot,bot
+sub_tau,true,P0,P0,bot,bot
+sub_tau_garbage_rho,true,P0,P0,bot,bot
+swap_tau,false,P3,P3,bot,bot
+garbage_rho,false,P3,P0,bot,bot
+malicious_P2,true,P2,P2,P2,P2
